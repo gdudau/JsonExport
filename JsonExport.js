@@ -1,5 +1,6 @@
 /**
  * @class Ext.ux.grid.JsonExport
+ * @version 0.5
  * @author George Alexandru Dudau (gxg1974@gmail.com)
  * Helper class to create a json object for create XLSX file with
  * PHPExcel
