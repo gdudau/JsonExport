@@ -1,0 +1,2 @@
+Ed Spencer (edward@domine.co.uk)
+Original url: http://edspencer.net/2009/07/printing-grids-with-ext-js.html
